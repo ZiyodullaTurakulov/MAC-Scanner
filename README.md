@@ -39,18 +39,9 @@ Threading (multithreading)
 Litsenziya 📄
 MIT License - Batafsil ma'lumot uchun LICENSE faylini ko'ring.
 Muallif 👨‍💻
-[Sizning ismingiz] - [Sizning email/kontaktingiz]
-Yordam berish 🤝
-Fork qiling
-O'z branch'ingizni yarating (git checkout -b feature/yangilik)
-O'zgarishlarni commit qiling (git commit -am 'Yangi imkoniyat qo'shildi')
-Branch'ga push qiling (git push origin feature/yangilik)
-Pull Request yarating
+[Ziyodulla Turakulov] 
 Eslatmalar ⚠️
 Ba'zi funksiyalar administrator huquqlarini talab qiladi
 Antivirus dasturlari port skanerlashni bloklashi mumkin
 Tarmoq himoyasi sozlamalariga qarab natijalar farq qilishi mumkin
-Screenshots 📸
-[Bu yerga dasturingizning screenshot'larini qo'shing]
----
 ⭐️ Agar dastur foydali bo'lsa, yulduzcha qo'yishni unutmang!
